@@ -1,0 +1,12 @@
+./dropbox
+./cache
+./gradle/caches/
+
+.gradle
+**/build/
+!src/**/build/
+
+
+
+# Cache of project
+.gradletasknamecache
